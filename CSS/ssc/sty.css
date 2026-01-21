@@ -1,0 +1,15 @@
+body {
+margin: 20;
+padding: 16;
+}
+
+
+.box {
+width: 815px;
+height: 50px;
+background: lawngreen;
+margin-bottom: 16px;
+border-style: solid;
+display: grid; place-items: center; 
+
+}

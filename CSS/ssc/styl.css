@@ -1,0 +1,37 @@
+body {
+margin: 0;
+padding: 0;
+}
+
+
+.panel {
+width: 400px;
+height: 400px;
+background: plum;
+margin-bottom: 16px;
+border-width: 10px;
+border-style: solid;
+border-color: black
+
+}
+.weird {
+width: 400px;
+height: 400px;
+background: pink;
+margin-bottom: 16px;
+border-width: 10px;
+border-left-style: dashed;
+border-top-style: dotted;
+border-color: black
+
+
+}
+.card {
+width: 400px;
+height: 400px;
+background: blanchedalmond;
+margin-bottom: 16px;
+border: 5px solid black
+
+}
+
